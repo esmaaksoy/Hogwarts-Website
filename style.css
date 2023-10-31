@@ -1,4 +1,7 @@
 .collapse .navbar-nav a:hover{
     color: rgb(169, 166, 165) !important;
-    
+
+}
+.banner{
+    height: calc(100vh-3rem);
 }

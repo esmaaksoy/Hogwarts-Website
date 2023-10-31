@@ -2,6 +2,18 @@
     color: rgb(169, 166, 165) !important;
 
 }
-.banner{
+/* .banner{
     height: calc(100vh-3rem);
+} */
+
+.banner{
+    height: 100vh;
+    background: url(./img/banner.jpeg) no-repeat center center;
+}
+.icon{
+    width:150px ;
+    height: 150px;
+    background-color: red;
+    border-radius: 50%;
+    margin: auto;
 }

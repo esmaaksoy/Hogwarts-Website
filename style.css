@@ -8,7 +8,7 @@
 
 .banner{
     height: 100vh;
-    background: url(./img/banner.jpeg) no-repeat center center;
+    background: url(./img/travel-3238442_1920.jpg) no-repeat center center;
 }
 .icon{
     width:150px ;
@@ -23,4 +23,7 @@
 }
 .contact{
     background-image: url(./img/map.jpeg);
+}
+.news img{
+   height: 300px;
 }

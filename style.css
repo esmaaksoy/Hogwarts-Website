@@ -27,3 +27,16 @@
 .news img{
    height: 300px;
 }
+.team img{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    border: 10px solid gray;
+}
+.team span{
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    background-color:black;
+    color: white;
+}

@@ -17,3 +17,10 @@
     border-radius: 50%;
     margin: auto;
 }
+.text-area{
+    background-color: red;
+    height: 300px;
+}
+.contact{
+    background-image: url(./img/map.jpeg);
+}
